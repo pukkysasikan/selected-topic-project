@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Mitr', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #FAEEE0;
+}
+
+code {
+  font-family: 'Mitr', sans-serif;
+}
